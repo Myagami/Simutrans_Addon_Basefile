@@ -1,12 +1,11 @@
 Obj=building
-Name=Base 1x1
-Type=
-Level=
-Passengers=0
+Name=Corner_Building_Type1
+Type=com
+Level=4
+Passengers=10
 Dims=1,1,4
 BackImage[0][0][0][0][0][0]=
 BackImage[1][0][0][0][0][0]=
 BackImage[2][0][0][0][0][0]=
 BackImage[3][0][0][0][0][0]=
-copyright=
-
+copyright=M.Yagami
